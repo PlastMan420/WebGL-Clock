@@ -1,3 +1,10 @@
+/**
+* circle.frag
+* This draws a circle with 3 arrows from the center point.
+* 
+* PlastMan420
+* 31/12/2025 
+*/
 #version 300 es
 #define M_PI 3.1415926535897932384626433832795
 

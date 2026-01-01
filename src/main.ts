@@ -1,3 +1,11 @@
+/**
+ * main.ts
+ * Entry point for the WebGL clock application.
+ *
+ * PlastMan420
+ * 31/12/2025
+ */
+
 import "./style.css";
 
 const canvas = document.getElementById("app") as HTMLCanvasElement;
