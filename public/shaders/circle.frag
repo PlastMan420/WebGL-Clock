@@ -1,11 +1,10 @@
-/**
-* circle.frag
-* This draws a circle with 3 arrows from the center point.
-* 
-* PlastMan420
-* 31/12/2025 
-*/
 #version 300 es
+
+/* 
+ * Copyright (c) 2025 PlastMan420
+ * SPDX-License-Identifier: Apache-2.0
+ */
+
 #define M_PI 3.1415926535897932384626433832795
 
 precision highp float;

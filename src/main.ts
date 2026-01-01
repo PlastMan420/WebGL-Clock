@@ -1,11 +1,7 @@
-/**
- * main.ts
- * Entry point for the WebGL clock application.
- *
- * PlastMan420
- * 31/12/2025
+/* 
+ * Copyright (c) 2025 PlastMan420
+ * SPDX-License-Identifier: Apache-2.0
  */
-
 import "./style.css";
 
 const canvas = document.getElementById("app") as HTMLCanvasElement;
